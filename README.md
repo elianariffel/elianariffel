@@ -1,4 +1,4 @@
-<img src="https://us.123rf.com/450wm/peshkova/peshkova1608/peshkova160800662/61005942-escritorio-del-dise%C3%B1ador-creativo-con-la-computadora-port%C3%A1til-en-blanco-vidrios-libreta-taza-de-caf%C3%A9.jpg"/>
+<img src="https://media.admagazine.com/photos/62004622609e5ca571cef935/16:9/w_2560%2Cc_limit/Home%2520office.jpg"/>
 <h1 align="center">Hi 👋, I'm Eliana</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
